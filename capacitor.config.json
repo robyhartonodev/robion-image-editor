@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "robion-image-editor",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
